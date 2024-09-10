@@ -1,0 +1,7 @@
+C:\Users\GioLGA\Desktop\Csharp\IComparerrr\IComparerrr\bin\Debug\IComparerrr.exe.config
+C:\Users\GioLGA\Desktop\Csharp\IComparerrr\IComparerrr\bin\Debug\IComparerrr.exe
+C:\Users\GioLGA\Desktop\Csharp\IComparerrr\IComparerrr\bin\Debug\IComparerrr.pdb
+C:\Users\GioLGA\Desktop\Csharp\IComparerrr\IComparerrr\obj\Debug\IComparerrr.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\Csharp\IComparerrr\IComparerrr\obj\Debug\IComparerrr.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\Csharp\IComparerrr\IComparerrr\obj\Debug\IComparerrr.exe
+C:\Users\GioLGA\Desktop\Csharp\IComparerrr\IComparerrr\obj\Debug\IComparerrr.pdb
